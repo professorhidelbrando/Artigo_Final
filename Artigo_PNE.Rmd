@@ -1,0 +1,189 @@
+---
+title: "Monitoramento das Metas Estabelecidas nos Planos Municipais de Educação da Microrregião de Itacoatiara"
+description: |
+  RELATÓRIO FINAL.
+author:
+  - name: Adria Rodrigues Teixeira e Hidelbrando Ferreira Rodrigues
+ #   url: https://example.com/norajones
+    affiliation: Universidade Federal do Amazonas
+#    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### 1) Resumo
+
+O Plano Nacional de Educação (PNE), aprovado pela Lei 13.005/2014, e com vigência entre 2014 e 2024, constitui um marco fundamental nas políticas públicas educacionais brasileiras. O PNE possui metas estruturantes, que visam a garantia do direito à educação básica com qualidade, que dizem respeito ao acesso, à universalização da alfabetização e à ampliação da escolaridade e das oportunidades educacionais, metas com vistas à redução das desigualdades e à valorização da diversidade, e metas para a valorização dos profissionais da educação, considerada estratégica para que as metas anteriores sejam atingidas. O Ministério da Educação publicou o 1º e 2º Relatórios referentes aos ciclos de monitoramento das metas do PNE: biênio 2014-2016 e 2016-208. Diante disso, o objetivo deste trabalho é realizar o monitoramento das metas estabelecidas nos Planos Municipais de Educação nos municípios de Itacoatiara, Itapiranga, Nova Olinda do Norte, Silves e Urucurituba, que formam a microrregião de Itacoatiara, com a metodologia baseada nos relatórios já publicados pelo PNE. Os principais resultados encontrados diante a coleta de dados demonstram que os municípios estão alinhados de uma forma mais lenta ao PNE e muitos dados relacionados aos municípios não foram encontrados, dificultando assim os resultados da pesquisa.
+
+### 2) Introdução
+
+A busca pela universalização do acesso à educação e à melhoria da qualidade de ensino é uma meta perseguida pela sociedade brasileira há bastante tempo. Nesta direção, o Plano Nacional de Educação (PNE), aprovado pela Lei 13.005/2014, e com vigência entre 2014 e 2024, constitui um marco fundamental nas políticas públicas educacionais brasileiras. O PNE possui 20 metas e conferem ao País um horizonte para o qual os esforços dos entes federativos e da sociedade civil devem convergir com a finalidade de consolidar um sistema educacional capaz de concretizar o direito à educação em sua integralidade, dissolvendo as barreiras para o acesso e a permanência, reduzindo as desigualdades, promovendo os direitos humanos e garantindo a formação para o trabalho e para o exercício autônomo da cidadania (BRASIL, 2014, 2015).
+
+O PNE possui metas estruturantes, que visam a garantia do direito à educação básica com qualidade, que dizem respeito ao acesso, à universalização da alfabetização e à ampliação da escolaridade e das oportunidades educacionais, metas com vistas à redução das desigualdades e à valorização da diversidade, e metas para a valorização dos profissionais da educação, considerada estratégica para que as metas anteriores sejam atingidas.
+
+O Ministério da Educação publicou o 1º e 2º Relatórios referentes aos ciclos de monitoramento das metas do PNE: biênio 2014-2016 e 2016-208 (INEP, 2016, 2018), exercendo, assim, sua atribuição de publicar, a cada dois anos, estudos para aferir o cumprimento das metas estabelecidas no PNE, conforme determina a Lei nº 13.005/2014. Esta publicação faz parte de um conjunto de ações realizadas pelo INEP, voltadas à produção e disseminação de informações e a estudos direcionados a subsidiar o monitoramento do PNE, bem como à formulação, implementação e avaliação de políticas públicas na área da educação.
+
+Apesar de importantes, os relatórios de monitoramento do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) consolidam os resultados dos estados da federação, o que não permite uma análise em nível municipal. Diante disso, este trabalho pretende seguir a mesma metodologia utilizado pelo INEP e preencher a lacuna referente a Microrregião de Itacoatiara, composta pelos municípios de Itacoatiara, Itapiranga, Nova Olinda do Norte, Silves e Urucurituba, que fazem parte da Mesorregião denominada de Centro Amazonense, correspondendo a uma população de 177.387 habitante (IBGE, 2018), baseando-se no que nisto o objetivo geral deste trabalho é Realizar o monitoramento das metas estabelecidas nos Planos Municipais de Educação nos municípios de Itacoatiara, Itapiranga, Nova Olinda do Norte, Silves e Urucurituba, que formam a microrregião de Itacoatiara, levando em consideração a importância de conhecer a realidade educacional desta microrregião e apresenta-la para a sociedade.
+
+#### 2.1 A Educação como um fator de qualidade
+
+A educação básica é um marco fundamental para o desenvolvimento de crianças, jovens e adultos todos os cidadãos tem direito a ter educação básica e de qualidade, sendo assim o governo sinaliza para toda a sociedade que um sistema de ensino, para ter qualidade, deve garantir o aprendizado de seus alunos com uma trajetória educacional regular, sem reprovações (FERNANDES, 2007).
+Diante de alguns ideais a concepção para a qualidade da educação que se formula em forma de “aprendizagem” como o principal significado, está ligado a permanência e juntas formam o tripé da qualidade da educação, sendo assim a aprendizagem é entendida como o rendimento escolar e tem a condição de permanência, o que leva acreditar que a “qualidade para alguns não é qualidade”, pois nota-se que acesso, permanência e rendimento escolar são os indicadores educacionais habitualmente usados pelas políticas públicas (GUSMÃO, 2013).
+
+#### 2.2	A desigualdade educacional 
+
+Para falar sobre desigualdade encontram-se diversos fatores que ocasionam esta problemática, porque há uma distribuição desigual de rendimentos que estão ligadas as nossas características individuais algumas destas são a família, a cor e o sexo essas que são características natas, outras como o nível educacional e a experiência profissional são características adquiridas, essas características que iram juntar e formar um conduto para transformação de renda (FERREIRA, 2001)
+
+A humanidade é muito ampla e cada qual possui duas diversidades, para medir a desigualdade são realizadas comparações para se chegar a uma conclusão. Cada escola está interligada a um acrescimento na probabilidade de ser observar um determinado nível de proveniência em função da escola onde o aluno está matriculado. Os alunos de escolas com efeitos negativos têm maior probabilidade de estarem no nível insuficiente ou no básico, do que no nível adequado (XAVIER, 2015).
+
+#### 2.3	Fatores de evasão escolar
+
+A jornada escolar é longa e diante desta jornada encontram-se diversos problemas dentre eles está a evasão escolar, que preocupa professores e gestores de escolas, este empecilho é de fato muito polêmico, pois impede que a reforma social ocorra aos educandos (REBELO & SANTOS, 2010).
+
+Os jovens perdem muito rapidamente o entusiasmo pelos estudos no ensino médio, o jovem pretende uma aceleração do tempo de vida. Ao chegar ao ensino médio os jovens orgulham-se, pois o nível de escolaridade da maioria é maior que de seus pais. Devido ao processo de ensino muitos dos jovens se desencantas pela formação, enquanto amizades e sociabilidade passam a ser mais importantes. O ingresso na universidade não é considerado como uma possibilidade para a maioria e o desejo de trabalhar ou melhorar profissionalmente também se torna muito difícil de ser concretizado (Krawczyk, 2011)
+
+A distorção idade-série pode ser vista na questão de alunos que estão matriculados na Educação de Jovens e Adultos/EJA, com o intuito de concluir o ensino básico como uma forma de igualdade de oportunidade, neste caso fatores como a evasão escolar acontecem porque, por serem pessoas adultas e om família os alunos são obrigados a trabalhar para sustento da família, ocasionando a exaustão o que desmotiva muitas vezes os alunos fazendo com que abandonem os estudos (Togni; Soares, 2007).
+
+### 3.	OBJETIVOS
+
+#### Geral
+Realizar o monitoramento das metas estabelecidas nos Planos Municipais de Educação nos municípios de Itacoatiara, Itapiranga, Nova Olinda do Norte, Silves e Urucurituba, que formam a microrregião de Itacoatiara.
+
+##### Específicos: 
+•	Realizar o levantamento da demanda e oferta da Educação Infantil e dos Ensino Fundamental e Médio;
+
+•	Monitorar o alcance das metas estabelecidas nos Planos Municipais de Educação entre os anos de 2014 e 2018;
+
+•	Desenvolver um dashboard que mostre as métricas e indicadores dos objetos e metas alcançados, facilitando a compreensão das informações geradas.
+
+### 4. METODOLOGIA
+O monitoramento das metas do PNE nos municípios que formam a microrregião de Itacoatiara, será feito a partir das metas estabelecidas no Plano Nacional de Educação (BRASIL, 2015), e das leis que aprovaram os Planos Municipais de Educação (ITACOATIARA, 2015; ITAPIRANGA, 2015; NOVA OLINDA DO NORTE, 2015; SILVES, 2015; URUCURITUBA, 2015, 2015).
+
+A pesquisa se caracteriza, portanto, como uma abordagem descritiva e exploratória, assim como bibliográfica, pois irá abranger toda a bibliografia tornada pública em relação ao tema, propondo uma análise mais detalhada das metas do PNE voltadas para os referidos municípios localizados na microrregião de Itacoatiara.
+
+Nos relatórios elaborados pelo INEP, encontram-se as fichas técnicas com a metodologia de cálculo dos indicadores de cada meta, as fontes de dados utilizadas, a abrangência dos indicadores e a série histórica considerada. Para o cálculo dos indicadores e a realização das análises referentes a cada meta do PNE, serão utilizados os dados mais apropriados até o momento da elaboração deste relatório, a saber:
+
+•	Censo da Educação Básica (2009-2018), Censo da Educação Superior (2016), Avaliações Nacional do Rendimento Escolar (Prova Brasil)/Avaliação Nacional da Educação Básica (2015), Avaliação Nacional da Alfabetização (2016), Índice de Desenvolvimento da Educação Básica (2015) e Levantamento da legislação estadual sobre planos de carreira, piso salarial do magistério e gestão democrática na educação básica (2017), do Inep;
+
+•	Censo Demográfico (2010), Estadic (2014), Munic (2014), Pesquisa Nacional por Amostra de Domicílios (2015) e Pesquisa  Nacional por Amostra de Domicílios Contínua (2017), Sistema de Contas Nacionais (2015), do IBGE;
+
+•	Sistema Integrado de Monitoramento, Execução e Controle (2018), do MEC;
+
+•	Sistema de Informações Georreferenciadas (2016), da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES);
+
+•	Sistema de Informações sobre Orçamentos Públicos em Educação (2015), do Fundo Nacional de Desenvolvimento da Educação;
+
+•	Sistema de Integrado de Administração Financeira do Governo Federal (2015), Finanças do Brasil (2015), Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (2015), da Secretaria do Tesouro Nacional;
+
+•	Demonstrativo dos Gastos Tributários Bases Efetivas – 2015: Série 2013 a 2018 (2015), da Secretaria da Receita Federal do  Brasil;
+
+•	Relatórios Resumidos de Execução Orçamentária, das Secretarias Estaduais de Fazenda;
+
+•	Demonstrativo de Benefícios Financeiros e Creditícios (2015), do Ministério da Fazenda;
+
+•	Relatórios de Acompanhamento da Gratuidade (2015), do Serviço Nacional de Aprendizagem Industrial (Senai), Serviço Nacional de Aprendizagem Comercial (Senac), Serviço Social do Comércio (Sesc) e Serviço Social da Indústria (Sesi).
+
+Ao final, pretende-se apresentar uma sequência de estudos referentes às 20 metas do PNE. Cada meta constituirá uma seção específica, em que serão detalhados os conceitos e indicadores utilizados para o monitoramento da meta e apresentando análises sobre a evolução em âmbito da Microrregião de Itacoatiara, e também desagregadas pelos municípios, visando a explicitar as desigualdades existentes e possibilitar o dimensionamento dos desafios para que se cumpram as metas do PNE. Ao final de cada seção, será incorporado um quadro resumo (dahboard) com as principais conclusões acerca do monitoramento da respectiva meta.
+
+### 5.	RESULTADOS/DISCUSSÃO
+
+#### 5.1	Informações dos municípios 
+A Microrregião de Itacoatiara é formada por 05 municípios está localizada no interior do estado do Amazonas. Segundo o último Censo Demográfico (2010) possui uma área de 25.387 km² e vivem em torno de 177.387 habitantes, Densidade 6,0 hab./km² e Altitude 23 m.
+
+O município de Itacoatiara estende por 8.892 km² e sua população é formada por em torno de 86.839 habitantes no último Censo Demográfico (2010), A densidade demográfica é de 9,8 habitantes por km². O atual prefeito do município é Antônio Peixoto de Oliveira, as coordenadas geográficas são as seguintes: Latitude: 3° 8' 31'' Sul, Longitude: 58° 26' 33'' Oeste e 26 m de altitude.
+O município de Nova Olinda do Norte estende-se por 5 608,6 km² e sua população é formada por em torno de 30 696 habitantes de acordo com o último Censo Demográfico (2014). A densidade demográfica é de 5,5 habitantes por km². O atual prefeito do município é Adenilson Lima Reis, as coordenadas geográficas são as seguintes: Latitude: 3° 53' 18'' Sul, Longitude: 59° 5' 40'' Oeste e 39m de altitude.
+
+O município de Urucurituba estende-se por 2.906,7 km² e sua população é formada por em torno de 17.837 habitantes de acordo com o último Censo Demográfico (2010). A densidade demográfica é de 6,1 habitantes por km². O atual prefeito do município é Jose Claudenor de Castro Pontes, as coordenadas geográficas são as seguintes: Latitude: 2° 41' 4'' Sul, Longitude: 57° 40' 9'' Oeste e 16 m de altitude.
+O município de Itapiranga estende-se por 4.231,2 km² e sua população é formada por em torno de 8 211 habitantes segundo o último Censo Demográfico (2010). A densidade demográfica é de 1,9 habitantes por km². O atual prefeito do município é Denise de Farias Lima, as coordenadas geográficas são as seguintes: Latitude: 2° 44' 58'' Sul, Longitude: 58° 1' 21'' Oeste e 12 m de altitude.
+O município de Silves estende-se por 3.748,8 km² e sua população é formada por em torno de 8.444 habitantes segundo último Censo Demográfico (2010). A densidade demográfica é de 2,3 habitantes por km². O atual prefeito do município é Aristides Queiroz de Oliveira Neto, as coordenadas geográficas são as seguintes: Latitude: 2° 59' 12'' Sul, Longitude: 58° 23' 51'' Oeste e 20 m de altitude.
+
+3.1	Metas do Plano Nacional de Educação
+Segundo (Inep, 2015), o Plano Nacional de Educação (PNE), aprovado pela Lei nº 13.005, de 25 de junho de 2014, constitui um documento que define compromissos colaborativos entre os entes federativos e diversas instituições pelo avanço da educação brasileira. O Quadro 1, a seguir, apresenta as diretrizes e metas do PNE, categorizadas em cinco grades grupo:
+
+INSERIR QUADRO 1
+
+No que tange seu acompanhamento, o PNE deve partir de um diagnóstico sobre a situação atual da educação brasileira. Em relação a isso, o art. 4º da Lei do PNE indica que a Linha de Base para o monitoramento e avaliação deverá se constituir a partir das informações disponibilizadas até 25 de junho de 2014, data de publicação do PNE: Pesquisa Nacional por Amostra de Domicílios (Pnad) 2013, Censo Demográfico de 2010, Censo Escolar de 2013, Censo da Educação Superior de 2012 e informações da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) 2013 sobre a pós-graduação.
+
+Quanto à Linha Base das Metas, esta faz contextualização das condições educacionais de cada uma das metas no início da vigência do PNE, considerando os dados disponíveis na data de sua sanção presidencial.   A Linha de Base é constituída a partir da apresentação e da análise descritiva das séries históricas com as trajetórias recentes dos indicadores selecionados pelo MEC e pelo Inep para o acompanhamento das metas do PNE.
+
+Meta 1 - UNIVERSALIZAR, ATÉ 2016, A EDUCAÇÃO INFANTIL NA PRÉ-ESCOLA PARA AS CRIANÇAS DE 4 (QUATRO) A 5 (CINCO) ANOS DE IDADE E AMPLIAR A OFERTA DE EDUCAÇÃO INFANTIL EM CRECHES DE FORMA A ATENDER, NO MÍNIMO, 50% (CINQUENTA POR CENTO) DAS CRIANÇAS DE ATÉ 3 (TRÊS) ANOS ATÉ O FINAL DA VIGÊNCIA DESTE PNE.
+
+Assim, o texto se estrutura com base em duas indagações:
+
+• Qual o percentual da população de 4 e 5 anos de idade que frequenta a escola? 
+• Qual o percentual da população de 0 a 3 anos de idade que frequenta a escola/creche?
+
+As respostas a essas questões se amparam em dois indicadores educacionais: percentual da população de 4 a 5 anos que frequenta a escola (Indicador 1A) e percentual da população de 0 a 3 anos que frequenta a escola/creche (Indicador 1B). Eles foram calculados com base nos microdados da Pesquisa Nacional por Amostra de Domicílios/ Instituto Brasileiro de Geograﬁa e Estatística (Pnad/IBGE) e compreendem a série histórica que se estende de 2004 a 2013. 
+
+QUAL O PERCENTUAL DA POPULAÇÃO DE 4 E 5 ANOS DE IDADE QUE FREQUENTA A ESCOLA? Indicador 1 A – Percentual da população de 4 e 5 anos que frequenta a escola em 2013, 81,4% das crianças de 4 e 5 anos frequentavam a escola. Ao se observar a trajetória do indicador entre 2004 e 2013, veriﬁcou-se um crescimento constante do atendimento, considerando o cenário nacional. No total, ocorreu uma ampliação de aproximadamente 20 pontos percentuais (p.p.) no período, como exposto no Gráﬁco 1. Apesar do incremento veriﬁcado, o percentual registrado em 2013 se localizava abaixo do requerido para atingir a universalização, o gráfico apresentado a seguir relata os dados gerais do Brasil.
+
+GRÁFICO 1
+
+Relatando sobre o tema População, segundo informações disponíveis no sítio do IBGE compreende-se informações sobre o tamanho e a estrutura (por idade ou sexo), cor ou raça, distribuição da população, densidade e urbanização. Os principais produtos são: Censo Demográfico, PNAD E PNAD Contínua, Projeção da População, Contagem da População, dentre outras. Estes estudos serão utilizados para a estimativa da população, por faixa etária, nos municípios pesquisados.
+	O último Censo Demográfico foi realizado em 2010. E próximo estava previsto para ser realizado em 2020, mas foi adiado para 2021.
+	
+Para estimativa da População, utilizou-se informações constantes no site do (IBGE), este não fornece estimativas do total da população dos Municípios e das Unidades da Federação brasileiras, com a data de referência em 1º de julho, para o ano do calendário corrente. As estimativas de população publicadas anualmente são calculadas aplicando-se o método matemático desenvolvido, em 1972, por João Lira Madeira e Celso Cardoso da Silva Simões, denominado AiBi. O IBGE não faz projeções para o nível geográfico municipal. As Projeções da População para o Brasil e as Unidades da Federação são prospectivas, estimadas por métodos demográficos, com horizonte atual definido até 2060. As populações projetadas pelo (IBGE) são disponibilizadas por sexo e grupos de idade, possibilitando análises acerca da evolução do tamanho e da estrutura etária da
+
+Para o cálculo dos estimadores 1A e 1B é necessário o total da população entre 0 e 3 anos, e 4 e 5 anos. Como visto, o que está disponível é a estimativa da população total por município. Cabe, portanto, utilizar estas estimativas dos municípios e partir delas estimar a quantidade de crianças nas duas faixas-etárias de interesse. Este cálculo foi feito utilizando-se a estimativa anual da População Total – Idades Simples
+
+EQUAÇÃO 1
+
+As taxas de idades foram utilizadas para estimar a quantidades de pessoas que possuíam a idade i do ano a de interesse. Estas estimativas certamente devem apresentar distorções em relação à verdadeira distribuição etária, mas a metodologia empregada foi a forma encontrada para os cálculos dos estimadores desejados, dado que o IBGE não faz a estimativa por idade em nível municipal. A partir disto a seguir é apresentada a tabela relacionada aos dados coletos para a microrregião de Itacoatiara para a meta 1.
+
+TABELA FAIXA ETÁRA
+
+A partir dos dados levantados em relação a meta de número 1 onde pretende-se universalizar até o ano de 2016 a educação infantil, podemos verificar que em alguns municípios como Urucurituba, Urucará, Nova Olinda do Norte e Itacoatiara houve um crescimento gradativo do número de crianças matriculas na pré-escola, isso ocorre tanto para as crianças de 0 a 3 anos como também para as crianças de 4 a 5 anos, portanto podemos dizer que a nova relevância assim atribuída à Educação Infantil corresponde ao reconhecimento do papel crucial dos primeiros anos de vida no desenvolvimento integrado das potencialidades psíquicas do ser humano, mas apesar disto podemos verificar que no município de São Sebastião do Uatumã não há escolas que ofereçam aulas para esse nível escolar e no município de Itapiranga há oscilações para de um ano para o outro de alunos matriculados para as duas faixas etárias, considerado a estimativa populacional para cada município. 
+
+### Conclusão
+
+A educação está sendo discutida ao longo dos anos, as formas como é aplicada e para quem é oferecida, pois o mundo está em constantes mudanças e hoje para ter uma profissão de auto nível é necessário ter uma educação de qualidade sendo que isto é um direito de todos, por esta razão o governo busca formas para entender se todos os que necessitam estão matriculados em alguma escola, se possuem professores de competentes e como manter esses estudantes dentro de salas de aula diante das adversidades de cada ser humano, para que todos possam concluir seus estudos na idade correta ou ter o mínimo de alfabetização.
+
+Esta pesquisa buscou atender as lacunas do plano nacional de educação para a microrregião de Itacoatiara, que abrangem a cinco municípios compostos por Itacoatiara, Urucurituba, Nova Olinda do Norte, Silves e Itapiranga, e buscamos atender também a Urucará e São Sebastião do Uatumã, onde realizamos o monitoramento das metas do Plano Nacional de Educação. Devido ausência de informações de todos os municípios, não houve êxito para realizar o levantamento para todas as metas do plano nacional o que tona a pesquisa de maior relevância, pois o simples exame da legislação referente ao Plano Nacional de Educação indica que, apesar da responsabilidade por sua apresentação basicamente caber ao Governo Federal, a colaboração dos estados e municípios na sua elaboração é considerada fundamental, por esta razão cabe a cada município realizar a divulgação de dados atualizados em relação ao andamento da educação.
+
+Portanto cabe a população cobrar de seus representantes dados atualizados em relação a educação, ao número de matriculados em escolas e universidades, assim como o de professores, número de desistentes e repetentes, para que possa ser realizado estudos em relação a educação e suas melhorias.
+
+7.	REFERÊNCIAS
+BRASIL. Planejando a Próxima Década Conhecendo as 20 Metas do Plano Nacional de Educação. Ministério da Educação, 2014.
+
+BRASIL. PNE. Plano Nacional de Educação PNE 2014-2024: Linha de Base. INEP, 2015.
+
+BRASIL. Relatório do 1o ciclo de monitoramento das metas do PNE¿: biênio 2014-2016INEP, 2016.
+
+BRASIL. Relatório do 2o ciclo de monitoramento das metas do PNE¿: biênio 2016-2018.INEP, 2018.
+
+
+BRAU, L.; MERCE, M.; TARRAGO, M. Manual de urbanismo. Barcelona, LEUMT, v. 2, 1980.
+
+IBGE. DIVISÃO DO BRASIL EM MESORREGIÕES E MICRORREGIÕES GEOGRÁFICAS. Instituto Brasileiro de Geografia e Estatística, 1990.
+
+ITACOATIARA. Plano Municipal de Educação. Lei Municipal No 295, 2015.
+
+ITAPIRANGA. Plano Municipal de Educação. Lei Municipal No 248, 2015.
+
+FERNANDES, Reynaldo. Índice de Desenvolvimento da Educação Básica (Ideb). Brasília: Inep, 2007.
+
+GUSMÃO, Joana Buarque. Significados da noção de qualidade da educação na arena educacional brasileira. Revista Brasileira de Estudos Pedagógicos, v. 94, n. 236, p. 100–124, 2013. 
+
+KRAWCZYK, Nora. Reflexão sobre alguns desafios do ensino médio no Brasil hoje. Cadernos de Pesquisa: Ação Educativa, 2009, v. 41, n. 144, set.-dez. 2011. (Coleção Em Questão, n. 6).
+
+NOVA OLINDA DO NORTE. Plano Municipal de Educação. Lei Municipal No 137, 2015.
+
+REBELO, M.N.; SANTOS, S.J.S. Evasão Escolar: um desafio a ser superado na educação de jovens e adultos. Universidade Luterana do Brasil (ULBRA), 2010. 14 f. Disponível em:
+http://guaiba.ulbra.tche.br/pesquisa/2010/artigos/pedagogia/seminario/681.pdf. Acesso em: 30 de junho de 2020.
+
+SILVES. Plano Municipal de Educação. Lei Municipal No 071, 2015.
+
+TOGNI, Ana Cecília; SOARES; Marie Jane. A escola noturna de ensino médio no Brasil. Revista Iberoamericana de Educación,
+n. 44, p. 61-76, 2007.
+
+URUCURITUBA. Plano Municipal de Educação. Lei Municipal No 117, 2015.
+
+XAVIER, Flavia Pereira; ALVES, Maria Teresa Gonzaga. A composição social importa para os efeitos das escolas no ensino fundamental? Estudos em Avaliação Educacional, v. 26, n. 61, p. 216, 2015.
+
+
+
+  
